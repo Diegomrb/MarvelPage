@@ -1,0 +1,25 @@
+.Perfil .colorDiferente {
+  background-color: #1c1c1c;
+  color: white;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+}
+
+.Perfil .colorDiferente p {
+  color: white;
+}
+
+.Perfil p {
+  margin-bottom: 4rem;
+  font-weight: 400;
+}
+
+.Perfil img {
+  width: 15%;
+  margin-top: 1em;
+}
+
+.Perfil .container {
+  max-width: 1300px;
+}

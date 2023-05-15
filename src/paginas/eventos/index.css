@@ -1,0 +1,13 @@
+.Eventos .row {
+  justify-content: center;
+}
+
+.Eventos .container {
+  max-width: 1300px;
+}
+
+.Eventos {
+  background-color: #ed1d24;
+  color: whitesmoke;
+  padding: 1em;
+}

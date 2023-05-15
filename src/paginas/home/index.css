@@ -1,0 +1,17 @@
+.Home {
+  background-color: #ed1d24;
+  color: whitesmoke;
+}
+
+p {
+  color: black;
+  font-weight: bold;
+}
+
+.Home .row {
+  justify-content: center;
+}
+
+.Home .container {
+  max-width: 1300px;
+}
